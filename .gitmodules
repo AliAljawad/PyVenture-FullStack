@@ -1,0 +1,6 @@
+[submodule "pyventure-backend"]
+	path = pyventure-backend
+	url = https://github.com/AliAljawad/pyventure-backend
+[submodule "pyventure-frontend"]
+	path = pyventure-frontend
+	url = https://github.com/AliAljawad/pyventure-frontend
