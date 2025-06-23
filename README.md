@@ -16,7 +16,7 @@ pyventure-frontend/  # React frontend (Vite, Tailwind CSS, TypeScript)
 
 ## ⚙️ Tech Stack
 
-- **Frontend:** React.js, Vite, Tailwind CSS, TypeScript
+- **Frontend:** React.js, Vite, Tailwind CSS, TypeScript, Phaser.js(for gamified interactions)
 - **Backend:** Laravel (PHP)
 - **Database:** MySQL
 - **AI Feedback:** Qwen-Coder:7B via Ollama
@@ -94,7 +94,9 @@ pyventure-frontend/  # React frontend (Vite, Tailwind CSS, TypeScript)
 
 - Storyline-driven progression through coding challenges
 - Real-time, AI-powered feedback and hints
-- Adaptive learning paths
+- Gamified levels built using Phaser.js
+- Achievements & leaderboards
+- Fully responsive design
 - Achievements & leaderboards
 
 ---
@@ -105,16 +107,14 @@ Contributions are welcome! Please open issues or submit pull requests.
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 🙏 Acknowledgements
 
 - [Laravel](https://laravel.com/)
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
--
+- [Phaser.js](https://phaser.io/)
+- [Ollama](https://ollama.com/)
+- [Qwen-Coder](https://github.com/QwenLM/Qwen) (Qwen2.5-Coder:7B)
+- [MySQL](https://www.mysql.com/)
+- [TypeScript](https://www.typescriptlang.org/)
