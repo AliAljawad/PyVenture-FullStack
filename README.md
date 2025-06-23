@@ -99,18 +99,6 @@ pyventure-frontend/  # React frontend (Vite, Tailwind CSS, TypeScript)
 
 ---
 
-## 🧪 Testing
-
-- **Backend:**  
-  ```sh
-  cd pyventure-backend
-  php artisan test
-  ```
-- **Frontend:**  
-  (Add frontend test instructions here)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please open issues or submit pull requests.
